@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Q453145/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Q453145/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/Q453145/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/Q453145/MainWindow.xaml))
+<!-- default file list end -->
 # Drag & Drop - Copying rows instead of moving them when the CTRL key is pressed
 
 
